@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    height: 150px;
+    font-size: 20px;
+    padding-left: 10px;
+    border: 1px solid black;
+}
+
+.first {
+    background-color: #95ebf5;
+}
+
+.second {
+    background-color: #fabccb;
+}
